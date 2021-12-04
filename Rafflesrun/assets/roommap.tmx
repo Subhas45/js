@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="13" nextobjectid="1">
+ <tileset firstgid="1" name="basemap" tilewidth="32" tileheight="32" tilecount="1064" columns="8">
+  <image source="basemap.png" width="256" height="4256"/>
+ </tileset>
+ <layer id="10" name="groundLayer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJybyMjAMJEAnkGEGhieSQReQKQ6EFYbxaN4FI/iUTwoMQBVUk5X
+  </data>
+ </layer>
+ <layer id="11" name="decoLayer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgiGBiAAN0uhRIazND2CC6DIc6dDoBB10LpWGgjoD6BDT1o2BwgJfAeHnFhMkmF3wE6v/EhMn+TOX4f41k3mUgvkkEBgFc/kV230U89voA844vM4KPy7/I4BYe80KAZoUy41FAITjLhB0jA5h/A4HuCALiYGbsfBC4yoQdYzOPGKDGCMEwNjZAivtI8S8xgBT/EuM+YgAp7iMG3GYgLn8AAPGzTEQ=
+  </data>
+ </layer>
+ <layer id="12" name="itemLayer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZ4AkzA8MZJgj7JBMEBwLFgoA4mBkijw8gqwWBN0D6CtS8i0wQjAzeEDCPEnAVaNczIH4OxC+YIHxsYqSY9w6I3wPxByTz0MVIMe8bEH8H4h9I5qGL0RvspWGcgMAXKpv/h8buxQV2DZC9gwXQ2v+EyhpSASlljTwLde0GAEyHK7o=
+  </data>
+ </layer>
+</map>
